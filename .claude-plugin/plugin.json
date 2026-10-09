@@ -1,0 +1,18 @@
+{
+  "name": "leftovers",
+  "version": "0.1.0",
+  "description": "Before Claude finishes, flags debug prints, focused or skipped tests, breakpoints and new TODOs that it added during the session.",
+  "author": {
+    "name": "Adam Wanninger",
+    "email": "adam@awanninger.com"
+  },
+  "homepage": "https://github.com/ajwann/leftovers",
+  "repository": "https://github.com/ajwann/leftovers",
+  "license": "MIT",
+  "keywords": [
+    "debug",
+    "tests",
+    "cleanup",
+    "hooks"
+  ]
+}
